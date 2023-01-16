@@ -16,8 +16,7 @@ The page will reload when you make changes.\
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-##
-For switching from one user to another change user name in App.js folder
+### For switching from one user to another change user name in App.js folder
 ## User1
 User1
 userName="User1"
